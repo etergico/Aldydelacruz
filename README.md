@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Aldydelacruz
-- 👀 I’m interested in The programming, Fronte Developer and The Design
-- 🌱 I’m currently learning Javascripts and React.js
-- 💞️ I’m looking to collaborate on proyects as Fronted Developer
-- 📫 How to reach me Instagram: @aldy.cruz.o , Email: aldydelacruz.o@gmail.com
-
-
+- 👋 Hi, I’m @etergiconomada
+- 👀 I’m an expert in Frontend Development, SEO Optimization, and UI/UX Design
+- 🧠 Skilled in JavaScript, Vue.js, and Modern Web Performance
+- 💞️ Looking to collaborate on frontend projects, web optimization, and interactive web applications
+- 📫 How to reach me: Email at colaboraciones@etergico.com or Instagram at @etergico.nomada or Linkedin at /in/aldayrdelacruz
